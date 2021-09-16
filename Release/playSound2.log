@@ -1,0 +1,10 @@
+﻿  Reading Qt configuration (C:/qt/qt5.12.0/5.12.0/msvc2017/bin/qmake)
+  uic playSound2.ui
+  rcc playSound2.qrc
+  moc playSound2.h
+   RCC: Warning: No resources in 'C:\Users\liangshe.li_sx\source\repos\playSound3\playSound2\playSound2.qrc'.
+  playSound2.cpp
+  main.cpp
+  qrc_playSound2.cpp
+  moc_playSound2.cpp
+  playSound2.vcxproj -> C:\Users\liangshe.li_sx\source\repos\playSound3\Release\playSound2.exe
